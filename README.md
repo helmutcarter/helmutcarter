@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helmutcarter
 - 🤔 I’m interested in bioinformatics, RNA processing, and computational approaches to big questions in molecular biology.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning tensorflow.
 - 🤝 I’m looking to collaborate on python-based bioinformatics tools.
 - 📫 You can reach me @helmutcarter on twitter
 
